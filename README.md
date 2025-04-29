@@ -13,7 +13,7 @@ A modern React application that allows users to explore countries worldwide usin
 
 ## 🚀 Live Demo
 
-Visit the live application: [Countries Explorer](https://heartfelt-sorbet-78996f.netlify.app)
+Visit the live application: [Countries Explorer](https://country-app-nine-plum.vercel.app/)
 
 ## 🛠️ Technologies Used
 
