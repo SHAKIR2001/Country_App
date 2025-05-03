@@ -52,8 +52,7 @@ function App() {
     setFilteredCountries(filtered);
   }, [searchTerm, selectedRegion, countries]);
 
-  const handleLogin = (username, password) => {
-    // Simple login logic (in real app, this would be more secure)
+  const handleLogin = ({ username, password }) => {
     if (username && password) {
       const userData = { username };
       setUser(userData);
